@@ -1,0 +1,46 @@
+{
+  "clowns": [
+    {
+      "id": 1,
+      "name": "Leslie"
+    },
+    {
+      "id": 2,
+      "name": "Mike"
+    }
+  ],
+  "completions": [
+    {
+      "id": 1,
+      "PartyrequestId": 2,
+      "clownId": 2,
+      "date_completed": 5555551515
+    },
+    {
+      "requestId": 3,
+      "clownId": 1,
+      "date_completed": 1660928193024,
+      "id": 2
+    }
+  ],
+  "Partyrequests": [
+    {
+      "childName": "Becky Sue",
+      "address": "1234 Seventh St. ",
+      "parentName": "Sarah",
+      "reservationDate": "2022-08-30",
+      "partyTime": 3,
+      "childrenAmount": 70,
+      "id": 1
+    },
+    {
+      "childName": "Booby Jo",
+      "address": "444 Export Way",
+      "parentName": "Wanda",
+      "reservationDate": "2022-09-14",
+      "partyTime": 2,
+      "childrenAmount": 30,
+      "id": 2
+    }
+  ]
+}
